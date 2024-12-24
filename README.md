@@ -34,6 +34,7 @@ Debian:
 sudo apt install build-essential libvulkan-dev plasma-workspace-dev gstreamer1.0-libav \
 liblz4-dev libmpv-dev python3-websockets qtbase5-private-dev \
 libqt5x11extras5-dev \
+ninja-build
 qml-module-qtwebchannel qml-module-qtwebsockets cmake
 ```  
 
